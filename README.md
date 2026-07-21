@@ -1,5 +1,7 @@
 # Quizzable
 
+<img src="./assets/banner.png">
+
 > Create and play interactive quizzes right inside your Obsidian notes.
 
 Define a quiz in a simple YAML block, and Quizzable turns it into an
