@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png">
 
-<p align="center"><img align="center" src="./assets/black-green-checkmark.gif" width="70"><img align="center" src="./assets/pink-form.gif" width="70"><img align="center" src=".assets/purple-beaker.gif" width="70"> <img align="center" src=".assets/purple-black-form.gif" width="70"> <img align="center" src=".assets/hot-pink-check.gif" width="70"></p>
+<p align="center"><img align="center" src="./assets/black-green-checkmark.gif" width="70"><img align="center" src="./assets/pink-form.gif" width="70"><img align="center" src="./assets/purple-beaker.gif" width="70"> <img align="center" src=".assets/purple-black-form.gif" width="70"> <img align="center" src=".assets/hot-pink-check.gif" width="70"></p>
 
 > Create and play interactive quizzes right inside your Obsidian notes.
 
