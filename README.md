@@ -2,7 +2,7 @@
 
 > Create and play interactive quizzes right inside your Obsidian notes.
 
-Define a quiz in a simple YAML block, and Playable Quizzes turns it into an
+Define a quiz in a simple YAML block, and Quizzable turns it into an
 interactive widget you can answer, submit, score, and retry — without leaving
 your note. It works completely offline and standalone, with an optional API for
 power users (JS Engine, Dataview, Meta Bind).
@@ -41,7 +41,7 @@ manually:
    [latest release](../../releases) (or build them yourself — see
    [Development](#-development)).
 2. In your vault, create the folder:
-   `<your-vault>/.obsidian/plugins/playable-quizzes/`
+   `<your-vault>/.obsidian/plugins/quizzable/`
 3. Copy the three files into that folder.
 4. In Obsidian, go to **Settings → Community plugins**, make sure
    **Restricted mode** is off, then **reload** the plugin list (or restart
@@ -339,7 +339,7 @@ Full API and event details live in
 ## 🩹 Troubleshooting
 
 **The plugin doesn't appear after installing.**
-Make sure the three files are directly inside a folder named `playable-quizzes`
+Make sure the three files are directly inside a folder named `quizzable`
 under `.obsidian/plugins/` (not a nested subfolder, and the config folder must
 be `.obsidian` with a leading dot). Then **reload** the plugin list or restart
 Obsidian. Turn off Restricted mode.
