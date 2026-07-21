@@ -2,7 +2,7 @@
 
 > Create and play interactive quizzes right inside your Obsidian notes.
 
-Define a quiz in a simple YAML block, and Playable Quizzes turns it into an
+Define a quiz in a simple YAML block, and Quizzable turns it into an
 interactive widget you can answer, submit, score, and retry — without leaving
 your note. It works completely offline and standalone, with an optional API for
 power users (JS Engine, Dataview, Meta Bind).
