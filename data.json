@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "persistence": "plugin-data",
+    "showExplanations": true,
+    "allowAnswerChanges": true,
+    "showPassFail": true,
+    "exportResultsToFrontmatter": false,
+    "frontmatterPrefix": "quizResults"
+  },
+  "attempts": {
+    "Untitled 1.md::demo": {
+      "quizId": "demo",
+      "answers": {
+        "q6": "Really simple syndication",
+        "q1": "b",
+        "q2": true,
+        "q3": [
+          "chrome",
+          "firefox"
+        ],
+        "q4": [
+          "static",
+          "social",
+          "mobile"
+        ],
+        "q7": 8
+      },
+      "currentQuestionIndex": 0,
+      "submitted": true,
+      "startedAt": 1784642738775,
+      "completedAt": 1784643427751
+    }
+  }
+}
